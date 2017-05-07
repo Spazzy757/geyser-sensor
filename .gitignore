@@ -16,7 +16,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-#lib/
+lib/
 lib64/
 parts/
 sdist/
@@ -74,9 +74,8 @@ reports/*
 static/*
 ansibles/*
 
-#local settings
-local_settings.py
-
 #IDEA
 .idea
-.coverage
+
+# Old code
+pycom_old
